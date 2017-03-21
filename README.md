@@ -1,7 +1,5 @@
 # Raymarine ST50 to I2C Wind Sensor
 
-# Arduino Switch Shield
-
 Description du projet : [Wiki Florian TALES](http://floriantales.hd.free.fr/doku.php?id=electronique:micro_controleurs:attiny85:i2c_wind_sensor)
 
 ## Getting Started
